@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    background-image: url("maxresdefault.png") ;
+    background-size: cover;
+    
+}
+#header{
+    background-color: salmon;
+    height: 60%;
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+}
+#foot-er{
+    margin: auto;
+    color:aqua;
+    background-color:brown;
+    text-align: center;
+    width: 60%;
+}
+#article{
+    margin: auto;
+    width: 59.82%;
+    color: blue;
+    background-color: aquamarine;
+}
+#piggha{
+    height: 100px;
+    padding-left:525px;
+}           
